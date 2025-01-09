@@ -7,6 +7,6 @@
    1. Склонируйте данный репозиторий.
    2. Откройте файл ```index.html```
    
-Или вы можете просто зайти на [сайт](kriswis.github.io/Terranuova/), загруженный на Github Pages.
+Или вы можете просто зайти на [сайт](evgeniywis.github.io/Terranuova/), загруженный на Github Pages.
 # Макет, откуда был адаптирован хедер
 ![preview](https://github.com/KrisWis/Terranuova/assets/94256853/e80f7698-a8d2-4987-bfc2-c0ae51bb1386)
